@@ -26,7 +26,7 @@ This article provides a detailed list of in-scope cloud services across Azure Pu
 * Planned 2020 = indicates the service will be reviewed by 3PAO and JAB in 2020. Once the service is authorized, status will be updated 
 
 ## Azure public services by audit scope
-| _Last Updated: April 2020_ |
+| _Last Updated: May 2020_ |
 
 | Azure Service| DoD CC SRG IL 2 | FedRAMP Moderate | FedRAMP High | Planned 2020 |
 | ------------ |:---------------:|:----------------:|:------------:|:------------:|
@@ -50,7 +50,7 @@ This article provides a detailed list of in-scope cloud services across Azure Pu
 | [Azure Cost Management](https://azure.microsoft.com/services/cost-management/)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Azure Stack Edge (Data Box Edge)](https://azure.microsoft.com/services/databox/edge/)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Azure Data Explorer](https://azure.microsoft.com/services/data-explorer/)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
-| [Azure Data Share](https://azure.microsoft.com/services/data-share/) | |  |  | :heavy_check_mark: |
+| [Azure Data Share](https://azure.microsoft.com/services/data-share/)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Azure Database for MySQL](https://azure.microsoft.com/services/mysql/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Azure Database for PostgreSQL](https://azure.microsoft.com/services/postgresql/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Azure Database for MariaDB](https://azure.microsoft.com/services/mariadb/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
@@ -73,7 +73,7 @@ This article provides a detailed list of in-scope cloud services across Azure Pu
 | [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) | |  |  | :heavy_check_mark: |
 | [Azure Managed Applications](https://azure.microsoft.com/services/managed-applications/)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Azure Marketplace Portal](https://azuremarketplace.microsoft.com/en-us)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
-| [Azure Maps](https://azure.microsoft.com/services/azure-maps/) |  |  |  | :heavy_check_mark: |
+| [Azure Maps](https://azure.microsoft.com/services/azure-maps/)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Azure Migrate](https://azure.microsoft.com/services/azure-migrate/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Azure Monitor](https://azure.microsoft.com/services/monitor/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Azure NetApp Files](https://azure.microsoft.com/services/netapp/)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
@@ -104,7 +104,7 @@ This article provides a detailed list of in-scope cloud services across Azure Pu
 | [Cognitive Services: Translator Text](https://azure.microsoft.com/services/cognitive-services/speech-translation/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Cognitive Services: Video Indexer](https://azure.microsoft.com/services/media-services/video-indexer/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Cognitive Services Containers](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-container-support) | |  |  | :heavy_check_mark: |
-| [Container Instances](https://azure.microsoft.com/services/container-instances/) |  |  |  | :heavy_check_mark: |
+| [Container Instances](https://azure.microsoft.com/services/container-instances/)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Container Registry](https://azure.microsoft.com/services/container-registry/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Content Delivery Network](https://azure.microsoft.com/services/cdn/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Data Catalog](https://azure.microsoft.com/services/data-catalog/) |  |  |  | :heavy_check_mark: |
